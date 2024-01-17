@@ -26,7 +26,7 @@ class ClientApp:
 def home():
     return render_template('index.html')
 
-@app.route("/predict",method=['POST'])
+@app.route("/predict",methods=['POST'])
 @cross_origin()
 
 def PredictRoute():

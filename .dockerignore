@@ -1,0 +1,15 @@
+artifacts
+demo
+myenv
+env
+venv
+logs
+log
+infrastructure
+docs
+*.egg-info
+LICENSE
+README.md
+notebooks
+Notebook
+scripts
