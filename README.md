@@ -43,7 +43,6 @@
 
 ## 3. Create ECR repo to store/save docker image
 
-
 ```
 - Save the URI: 712567051749.dkr.ecr.us-east-1.amazonaws.com
 ```
@@ -88,5 +87,12 @@ AWS_REGION = {AWS_REGION}
 AWS_ECR_LOGIN_URI = {AWS_ECR_LOGIN_URI}
 
 ECR_REPOSITORY_NAME = {ECR_REPOSITORY_NAME}
+
+```
+
+### 8. EC2 link:
+
+```
+http://3.86.145.99:8080/
 
 ```
